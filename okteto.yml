@@ -1,6 +1,6 @@
 name: python-httpcat-us
 build:
-  hello-world:
+  httpcat-us:
     image: okteto.dev/python-hello-world:1.0.0
     context: .
 deploy:

@@ -9,6 +9,7 @@ spec:
   template:
     metadata:
       labels:
+        cute: cats
         app: hello-world
     spec:
       containers:
