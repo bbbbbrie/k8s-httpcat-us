@@ -1,4 +1,4 @@
-name: python-getting-started
+name: python-httpcat-us
 build:
   hello-world:
     image: okteto.dev/python-hello-world:1.0.0
@@ -16,3 +16,4 @@ dev:
       - 9000:9000
     volumes:
       - /root/.cache/pip
+
