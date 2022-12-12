@@ -1,0 +1,250 @@
+{
+  "100": {
+    "codetext": "Continue",
+    "prompt": "cute cat walking on very long road\")"
+  },
+  "101": {
+    "codetext": "Switching Protocols",
+    "prompt": "cool illustration of sneaky tricky mischievous cat switching around important cables"
+  },
+  "102": {
+    "codetext": "Processing",
+    "prompt": "bureaucrat cat processing paperwork"
+  },
+  "103": {
+    "codetext": "Early Hints",
+    "prompt": "detective cats whispers secret at sunrise"
+  },
+  "200": {
+    "codetext": "OK",
+    "prompt": "cute polaroid of cat with sign that says OK"
+  },
+  "201": {
+    "prompt": "painter cat surrounded by works of art",
+    "codetext": "Created"
+  },
+  "202": {
+    "codetext": "Accepted",
+    "prompt": "train conductor cats collects tickets from passengers"
+  },
+  "203": {
+    "codetext": "Non-Authoritative Information",
+    "prompt": "liar cat as a puppet, piar, pinocchio"
+  },
+  "204": {
+    "codetext": "No Content",
+    "prompt": "sad chibi kitten peering into empty food bowl, alone in empty house"
+  },
+  "205": {
+    "codetext": "Reset Content",
+    "prompt": "cute cat pushes big red reset button on computerized console, danger posters and warning signs"
+  },
+  "206": {
+    "codetext": "Partial Content",
+    "prompt": "polaroid photograph of satiated cat laying next to half-eaten pizza, can't finish, full, food nap"
+  },
+  "207": {
+    "codetext": "Multi-Status",
+    "prompt": "scientific cat in box glitching, observed by old man scientist"
+  },
+  "208": {
+    "codetext": "Already Reported",
+    "prompt": "chibi: cat listening to many cats complaining, reporting a software bug, error messages, office"
+  },
+  "226": {
+    "codetext": "IM Used",
+    "prompt": "hacker cat glitch"
+  },
+  "300": {
+    "codetext": "Multiple Choices",
+    "prompt": "cute cats as Campbell soup cans, in the style of Andy Warhol"
+  },
+  "301": {
+    "codetext": "Moved Permanently",
+    "prompt": "photograph of sad anthropomorphic cat family standing outside of house with suitcases, moving out of town, carpetbagger, 1950s, train tracks, black and white"
+  },
+  "302": {
+    "codetext": "Found",
+    "prompt": "explorer pirate cat discovers treasure, treasure map with x marks the spot, eureka"
+  },
+  "303": {
+    "codetext": "See Other",
+    "prompt": "fantasy cat viewing self through hall of mirrors"
+  },
+  "304": {
+    "codetext": "Not Modified",
+    "prompt": "all natural cats, advertisement, fluffy tabby cat,  paw and leaf logo, safe and healthy,"
+  },
+  "305": {
+    "codetext": "Use Proxy",
+    "prompt": "large robot cat operating mini cats"
+  },
+  "307": {
+    "codetext": "Temporary Redirect",
+    "prompt": "1950s fancy hotel concierge cat, operating cat hotel for mice"
+  },
+  "308": {
+    "codetext": "Permanent Redirect",
+    "prompt": "anthropomorphic cat looking at tattoo machine"
+  },
+  "400": {
+    "codetext": "Bad Request",
+    "prompt": "handsome realistic cat extends paw, come ride with me, Harley Davidson"
+  },
+  "401": {
+    "codetext": "Unauthorized",
+    "prompt": "hacker cat sees acess denied error message, sitting at desk in underground lair, neon glowing, side profile"
+  },
+  "402": {
+    "codetext": "Payment Required",
+    "prompt": "bouncer cat demands tip, payment, hand out for money, bribe"
+  },
+  "403": {
+    "codetext": "Forbidden",
+    "prompt": "forbidding cat denies entry to party, arms crossed, says no"
+  },
+  "404": {
+    "codetext": "Not Found",
+    "prompt": "gorgeous fluffy black cat silhouette double exposure photograph filled with misty dusty forest, empty"
+  },
+  "405": {
+    "codetext": "Method Not Allowed",
+    "prompt": "photograph of cute cat telling another cat no, you can't do that"
+  },
+  "406": {
+    "codetext": "Not Acceptable",
+    "prompt": "frowning picky cat, refusing meal, arms crossed"
+  },
+  "407": {
+    "codetext": "Proxy Authentication Required",
+    "prompt": "silly cat inside computer, confused cats peering in, access denied, japanese woodcut, intricate, detailed"
+  },
+  "408": {
+    "codetext": "Request Timeout",
+    "prompt": "dusty cat watching time run out in hourglass, gem-encrusted, piles of gold and silver treasure around"
+  },
+  "409": {
+    "codetext": "Conflict",
+    "prompt": "chibi drawing of cats fighting"
+  },
+  "410": {
+    "codetext": "Gone",
+    "prompt": "sleepy fisherman cat"
+  },
+  "411": {
+    "codetext": "Length Required",
+    "prompt": "sad chibi cats at amusement park, looking at roller coaster, too short to ride"
+  },
+  "412": {
+    "codetext": "Precondition Failed",
+    "prompt": "chibi employee cat asleep at desk, stacks of coffee cups and pastries scattered everywhere"
+    },
+  "413": {
+    "codetext": "Content Too Large",
+    "prompt": "giant cat looms over earth"
+  },
+  "414": {
+    "codetext": "URI Too Long",
+    "prompt": "cat winning world record for longest tail"
+  },
+  "415": {
+    "codetext": "Unsupported Media Type",
+    "prompt": "confused chibi kittens plugging vhs into iphone, where does it go, doesn't fit, question mark"
+  },
+  "416": {
+    "codetext": "Range Not Satisfiable",
+    "prompt": "nervous opera singer cat on stage can't sing high notes, audience laughing, complex sheet music falling to floor"
+  },
+  "417": {
+    "codetext": "Expectation Failed",
+    "prompt": "disappointed christmas cat looks at opened presents, discarded wrapping, unwrapped presents, sad"
+  },
+  "418": {
+    "codetext": "I'm a teapot",
+    "prompt": "whimsical illustration of a cat with a teapot body and a lid on its head"
+  },
+  "421": {
+    "codetext": "Misdirected Request",
+    "prompt": "polaroid photograph of magician cat shuffling cups, ball under cup game, paw on cup" 
+  },
+  "422": {
+    "codetext": "Unprocessable Content",
+    "prompt": "polaroid photograph of cat refusing meal of vegetables"
+  },
+  "423": {
+    "codetext": "Locked",
+    "prompt": "cat locks you out"
+  },
+  "424": {
+    "codetext": "Failed Dependency",
+    "prompt": "clumsy barista cat spilling espresso beans, coffee spilling on counter, oil painting"
+  },
+  "425": {
+    "codetext": "Too Early",
+    "prompt": "yawning cat curled up next to sleepy sun, early morning"
+  },
+  "426": {
+    "codetext": "Upgrade Required",
+    "prompt": "oil painting of chunky cat wants bigger box, flattened crumpled cardboard"
+  },
+  "428": {
+    "codetext": "Precondition Required",
+    "prompt": "unplugged robotic cat turned off, coffee machine nearby, needs coffee, eyes closed, head down" 
+  },
+  "429": {
+    "codetext": "Too Many Requests",
+    "prompt": "fourteen cats sharing one small cup of milk"
+  },
+  "431": {
+    "codetext": "Request Header Fields Too Large",
+    "prompt": "kitten ordering long list of food at restaurant, many trays of food, anime style"
+  },
+  "451": {
+    "codetext": "Unavailable for Legal Reasons",
+    "prompt": "cute chibi defendant cat loses trial, goes to jail"
+  },
+  "500": {
+    "codetext": "Internal Server Error",
+    "prompt": "swirling glowing green error messages inside cat silhouette"
+  },
+  "501": {
+    "codetext": "Not Implemented",
+    "prompt": "cat daydreams of inventing"
+  },
+  "502": {
+    "codetext": "Bad Gateway",
+    "prompt": "evil mystical cat before broken portal to broken universe, moonlight streaming in"
+  },
+  "503": {
+    "codetext": "Service Unavailable",
+    "prompt": "tired employee cat sleeping on the job"
+  },
+  "504": {
+    "codetext": "Gateway Timeout",
+    "prompt": "magical cat watching time expire"
+  },
+  "505": {
+    "codetext": "HTTP Version Not Supported",
+    "prompt": "ancient roman julius caesar cat confused by iphone settings screen"
+  },
+  "506": {
+    "codetext": "Variant Also Negotiates",
+    "prompt": "businessman cat with briefcase full of money, sees alien clone in mirror"
+  },
+  "507": {
+    "codetext": "Insufficient Storage",
+    "prompt": "tiny chibi kitten dines on giant feast, king's buffet of food"
+  },
+  "508": {
+    "codetext": "Loop Detected",
+    "prompt": "hacker cat detects loop in program"
+  },
+  "510": {
+    "codetext": "Not Extended",
+    "prompt": "news report showing sad football player cat walking away from team, dejected"
+  },
+  "511": {
+    "codetext": "Network Authentication Required",
+    "prompt": "secret club of cute pink cats guarding computer network, messy cables connecting computers"
+  }
+}
